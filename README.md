@@ -2,6 +2,8 @@
 
 This repository contains the code used in **A Deep Learning-based Radiomics for COVID-19 Detection from CXR images using Ensemble Learning Model**
 
+[[`Paper`]()] [[`Dataset`](https://github.com/usmarcv/CBMS-DL-based-radiomics/tree/main/dataset_script)] [[`BibTeX`](#citing-us)]
+
 **Authors**: [Márcus V. L. Costa](https://github.com/usmarcv), [Erikson J. de Aguiar](https://github.com/eriksonJAguiar), [Lucas S. Rodrigues](https://github.com/lsrusp), [Jonathan S. Ramos](https://github.com/JonathanRamos), Caetano Traina Jr. and Agma J. M. Traina
 
 **Conference**
@@ -13,3 +15,4 @@ This repository contains the code used in **A Deep Learning-based Radiomics for 
   <img src="./workflow.png">
 <p>
 
+### Citing us
