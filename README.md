@@ -15,7 +15,7 @@ This repository contains the code used in **A Deep Learning-based Radiomics for 
   <img src="./workflow.png">
 <p>
 <p align = "center">
-<b>Fig.1:Workflow employed in this study.</b>
+<b>Fig.1: Workflow employed in this study.</b>
 </p>
 
 
