@@ -15,7 +15,7 @@ This repository contains the code used in **A Deep Learning-based Radiomics for 
   <img src="./workflow.png">
 <p>
 <p align = "center">
-<b>Fig.1: Workflow employed in this study.</b>
+Fig.1: Workflow employed in this study.
 </p>
 
 
@@ -25,7 +25,7 @@ This repository contains the code used in **A Deep Learning-based Radiomics for 
   <img src="./vgg-16-with-gradcam.png">
 <p> 
 <p align = "center">
-<b>Fig.3: Visual assessment with Grad-CAM from a COVID-19 case, showing the behavior from Grad-CAM about one example extracted from each convolution process. Remark that COVID-19 case is labeled 0 and Normal (Healthy) is 1.</b>
+Fig.3: Visual assessment with Grad-CAM from a COVID-19 case, showing the behavior from Grad-CAM about one example extracted from each convolution process. Remark that COVID-19 case is labeled 0 and Normal (Healthy) is 1.
 </p>
 
 ### Citing us
