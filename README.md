@@ -10,6 +10,6 @@ This repository contains the code used in **A Deep Learning-based Radiomics for 
 **Proposed Overview**
 
 <p align='center'>
-  <img src="./workflow.pdf">
+  <img src="./workflow.png">
 <p>
 
