@@ -35,7 +35,7 @@ Fig.1: Workflow employed in this study.
   <img src="./images/vgg-16-with-gradcam.png">
 <p> 
 
-More [results](https://github.com/usmarcv/CBMS-DL-based-radiomics/tree/main/log%20results).
+More [results and details](https://github.com/usmarcv/CBMS-DL-based-radiomics/tree/main/log%20results).
 
 ### Citing us
 ```
