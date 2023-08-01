@@ -39,8 +39,15 @@ More [results and details](https://github.com/usmarcv/CBMS-DL-based-radiomics/tr
 
 ### Citing us
 ```
-@inproceedings{
-
+@inproceedings{CostaMVL2023,
+  author={Costa, Márcus V. L. and de Aguiar, Erikson J. and Rodrigues, Lucas S. and Ramos, Jonathan S. and Traina, Caetano and Traina, Agma J. M.},
+  booktitle={2023 IEEE 36th International Symposium on Computer-Based Medical Systems (CBMS)}, 
+  title={A Deep Learning-based Radiomics Approach for COVID-19 Detection from CXR Images using Ensemble Learning Model}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={517-522},
+  doi={10.1109/CBMS58004.2023.00272}
 }
 ```
   
